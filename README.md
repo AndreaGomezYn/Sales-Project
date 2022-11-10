@@ -20,4 +20,4 @@ Conducted Data Analysis using 12-month product sales data to answer the followin
 ### Data Cleaning
 ### EDA (Exploratory Data Analysis)
 
-Findings:
+## Findings:
