@@ -18,6 +18,12 @@ Conducted Data Analysis using 12-month product sales data to answer the followin
 
 ## Process:
 ### Data Cleaning
+Clean up the data to make it usable for the analysis. This section consisted of the following tasks: 
+- Drop NAN Values
+- 
+- 
+- 
+
 ### EDA (Exploratory Data Analysis)
 
 ## Findings:
